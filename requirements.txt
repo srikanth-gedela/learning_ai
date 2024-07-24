@@ -4,4 +4,12 @@ openai
 elasticsearch
 scikit-learn
 pandas
-mesop
+mesos
+langchain 
+langchain_community 
+langchain-openai 
+tiktoken 
+chromadb 
+pypdf 
+datasets 
+ragas
