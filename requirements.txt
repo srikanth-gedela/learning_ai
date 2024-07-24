@@ -4,3 +4,4 @@ openai
 elasticsearch
 scikit-learn
 pandas
+mesop
