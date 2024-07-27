@@ -4,7 +4,7 @@ openai
 elasticsearch
 scikit-learn
 pandas
-mesos
+mesop
 langchain 
 langchain_community 
 langchain-openai 
